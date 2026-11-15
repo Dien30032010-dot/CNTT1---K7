@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/CNTT1 - K7/',
+    base: '/CNTT1---K7/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
